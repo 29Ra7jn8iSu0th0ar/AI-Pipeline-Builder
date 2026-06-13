@@ -57,7 +57,6 @@ VectorShift-inspired design using Tailwind CSS:
 
 ```
 VectorShift/
-
 ├── frontend/
 │   ├── src/
 │   │   ├── nodes/
