@@ -3,8 +3,6 @@ A full-stack AI pipeline builder built with React + FastAPI.
 
 ---
 
-## What Was Built
-
 ### Part 1 — Node Abstraction
 Config-driven factory pattern (`BaseNode.jsx` + `nodeFactory.js`) that eliminates
 boilerplate across all node types. Adding a new node requires only a config object —
