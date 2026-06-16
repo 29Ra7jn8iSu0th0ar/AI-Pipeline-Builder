@@ -296,6 +296,3 @@ processed = 0 (no node ever reaches in-degree 0)
 
 processed ≠ total → is_dag = False
 
----
-
-*Built by Rajni Suthar · github.com/29Ra7jn8iSu0th0ar*
