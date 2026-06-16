@@ -114,7 +114,6 @@ FastAPI receives → Counts nodes and edges
 │           Builds adjacency list from edges
 │           Runs Kahn's BFS cycle detection
 │           Returns { num_nodes, num_edges, is_dag }
-
 ▼
 
 Frontend receives → Alert displays result
